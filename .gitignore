@@ -10,14 +10,3 @@ npm-debug.*
 # OSX
 #
 .DS_Store
-
-# Android/IntelliJ
-android/
-.idea
-.tmp
-.gradle
-local.properties
-*.iml
-
-# Build
-build/
